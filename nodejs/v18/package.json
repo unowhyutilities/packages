@@ -1,0 +1,19 @@
+{
+    "package": {
+        "name": "NodeJS",
+        "version": "18.18.2",
+        "platform": ["Windows10", "Windows11"]
+        "sources": [
+            {
+                "arch": "x32",
+                "external": true
+                "link": "https://nodejs.org/dist/v18.18.2/node-v18.18.2-win-x32.zip"
+            },
+            {
+                "arch": "x64",
+                "external": true
+                "link": "https://nodejs.org/dist/v18.18.2/node-v18.18.2-win-x64.zip"
+            },
+        ]
+    }
+}
