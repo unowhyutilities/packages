@@ -3,6 +3,7 @@
         "name": "NodeJS",
         "version": "18.18.2",
         "platform": ["Windows10", "Windows11"]
+        "addToPath": true,
         "sources": [
             {
                 "arch": "x32",
