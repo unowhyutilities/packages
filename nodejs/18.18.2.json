@@ -4,7 +4,6 @@
         "version": "18.18.2",
         "platform": ["Windows10", "Windows11"],
         "addToPath": true,
-        "icon": "nodejs/icon.png",
         "sources": [
             {
                 "arch": "x32",
