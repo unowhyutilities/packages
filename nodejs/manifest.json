@@ -1,5 +1,5 @@
 {
-    "displayName": "Node JS - V8 Runtime"
     "name": "nodejs",
-    "logo": "nodejs/icon.png"
+    "logo": "nodejs/icon.png",
+    "displayName": "Node JS - V8 Runtime"
 }
